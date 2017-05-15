@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My web workflow with NPM, SASS, GULP AND MORE ...............",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jibala/workflow.git"
+  },
+  "keywords": [
+    "NPM",
+    "SASS",
+    "gulp",
+    "git"
+  ],
+  "author": "Bala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jibala/workflow/issues"
+  },
+  "homepage": "https://github.com/jibala/workflow#readme"
+}
